@@ -1,0 +1,13 @@
+main, footer{
+    max-width: 50rem;
+    margin-inline: auto;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 1.2rem;
+}
+
+footer{
+    margin-top: 5rem;
+}
